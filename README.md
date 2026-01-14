@@ -1,4 +1,5 @@
 🚀 Top-20 Cryptocurrency Market Analysis & Investment Recommender
+<img width="1919" height="907" alt="Screenshot 2026-01-14 180802" src="https://github.com/user-attachments/assets/290fba83-96dc-4e79-b68e-88c96c75fad1" />
 
 A data-driven investment analysis system that fetches real-time data for the top 20 cryptocurrencies by market cap and provides intelligent investment recommendations based on risk-adjusted returns.
 
